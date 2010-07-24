@@ -22,6 +22,7 @@ You can *construct* a new sample set in 2 ways:
 + xbar
 + total
 + median
++ mode
 + range
 + sigma
 + standardDeviation
