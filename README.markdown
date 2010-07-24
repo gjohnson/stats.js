@@ -10,7 +10,22 @@ Usage:
 
 You can *construct* a new sample set in 2 ways:
 
-1) pass in an array: stats = Stats.init([2,4,5,6,1,8]);
++ pass in an array: stats = Stats.init([2,4,5,6,1,8]);
 
-2) pass in a *comma delimited* string: stats = Stats.init("2,4,5,6,1,8");
++ pass in a *comma delimited* string: stats = Stats.init("2,4,5,6,1,8");
+
+### Methods
+
++ low
++ high
++ mean
++ xbar
++ total
++ median
++ range
++ sigma
++ standardDeviation
++ sampleVariance
+
+
 
